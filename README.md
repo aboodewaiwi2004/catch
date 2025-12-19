@@ -20,10 +20,10 @@ cd ~/turtlesim_ws
 
 colcon build --packages-select turtlesim_py_pkg turtlesim_interfaces
 
-source install/setup.bash
+source ~/.bash
 
 2. Simülasyonu Başlatma
-3. 
+
 Üç farklı terminal açarak aşağıdaki komutları sırasıyla çalıştırın:
 
 Terminal 1 (Turtlesim GUI):
@@ -39,4 +39,5 @@ Terminal 3 (Avcı Kontrolcü):
 ros2 run turtlesim_py_pkg go_to_loc
 
 DEMO VIDEO
+
 https://github.com/user-attachments/assets/4716fe20-aaa1-412b-adce-93601ac22ea5
