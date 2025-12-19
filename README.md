@@ -26,3 +26,6 @@ Terminal 2 (Av Oluşturucu):
 ros2 run turtlesim_py_pkg spawn_turtle
 Terminal 3 (Avcı Kontrolcü):
 ros2 run turtlesim_py_pkg go_to_loc
+
+DEMO VIDEO
+https://github.com/user-attachments/assets/4716fe20-aaa1-412b-adce-93601ac22ea5
