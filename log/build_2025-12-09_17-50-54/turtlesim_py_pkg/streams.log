@@ -1,0 +1,18 @@
+[0.381s] Invoking command in '/home/abdullrahmman/turtlesim_ws/build/turtlesim_py_pkg': PYTHONPATH=/home/abdullrahmman/turtlesim_ws/build/turtlesim_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/abdullrahmman/turtlesim_ws/install/turtlesim_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/abdullrahmman/turtlesim_ws/build/turtlesim_py_pkg/build --no-deps symlink_data
+[0.543s] running develop
+[0.626s] running egg_info
+[0.626s] writing turtlesim_py_pkg.egg-info/PKG-INFO
+[0.626s] writing dependency_links to turtlesim_py_pkg.egg-info/dependency_links.txt
+[0.626s] writing entry points to turtlesim_py_pkg.egg-info/entry_points.txt
+[0.627s] writing requirements to turtlesim_py_pkg.egg-info/requires.txt
+[0.627s] writing top-level names to turtlesim_py_pkg.egg-info/top_level.txt
+[0.629s] reading manifest file 'turtlesim_py_pkg.egg-info/SOURCES.txt'
+[0.629s] writing manifest file 'turtlesim_py_pkg.egg-info/SOURCES.txt'
+[0.631s] running build_ext
+[0.631s] Creating /home/abdullrahmman/turtlesim_ws/install/turtlesim_py_pkg/lib/python3.10/site-packages/turtlesim-py-pkg.egg-link (link to .)
+[0.632s] Installing go_to_loc script to /home/abdullrahmman/turtlesim_ws/install/turtlesim_py_pkg/lib/turtlesim_py_pkg
+[0.632s] Installing vel_controller script to /home/abdullrahmman/turtlesim_ws/install/turtlesim_py_pkg/lib/turtlesim_py_pkg
+[0.632s] 
+[0.632s] Installed /home/abdullrahmman/turtlesim_ws/build/turtlesim_py_pkg
+[0.632s] running symlink_data
+[0.652s] Invoked command in '/home/abdullrahmman/turtlesim_ws/build/turtlesim_py_pkg' returned '0': PYTHONPATH=/home/abdullrahmman/turtlesim_ws/build/turtlesim_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/abdullrahmman/turtlesim_ws/install/turtlesim_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/abdullrahmman/turtlesim_ws/build/turtlesim_py_pkg/build --no-deps symlink_data

@@ -1,0 +1,29 @@
+[0.437s] Invoking command in '/home/abdullrahmman/turtlesim_ws/src/turtlesim_py_pkg': CMAKE_PREFIX_PATH=/home/abdullrahmman/turtlesim_ws/install/turtlesim_interfaces:/home/abdullrahmman/ros2_ws/install/simple_interfaces_pkg LD_LIBRARY_PATH=/home/abdullrahmman/turtlesim_ws/install/turtlesim_interfaces/lib:/home/abdullrahmman/ros2_ws/install/simple_interfaces_pkg/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib PYTHONPATH=/home/abdullrahmman/turtlesim_ws/build/turtlesim_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/abdullrahmman/turtlesim_ws/install/turtlesim_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlesim_py_pkg build --build-base /home/abdullrahmman/turtlesim_ws/build/turtlesim_py_pkg/build install --record /home/abdullrahmman/turtlesim_ws/build/turtlesim_py_pkg/install.log --single-version-externally-managed install_data
+[0.595s] running egg_info
+[0.596s] writing ../../build/turtlesim_py_pkg/turtlesim_py_pkg.egg-info/PKG-INFO
+[0.596s] writing dependency_links to ../../build/turtlesim_py_pkg/turtlesim_py_pkg.egg-info/dependency_links.txt
+[0.596s] writing entry points to ../../build/turtlesim_py_pkg/turtlesim_py_pkg.egg-info/entry_points.txt
+[0.596s] writing requirements to ../../build/turtlesim_py_pkg/turtlesim_py_pkg.egg-info/requires.txt
+[0.596s] writing top-level names to ../../build/turtlesim_py_pkg/turtlesim_py_pkg.egg-info/top_level.txt
+[0.597s] reading manifest file '../../build/turtlesim_py_pkg/turtlesim_py_pkg.egg-info/SOURCES.txt'
+[0.598s] writing manifest file '../../build/turtlesim_py_pkg/turtlesim_py_pkg.egg-info/SOURCES.txt'
+[0.598s] running build
+[0.598s] running build_py
+[0.598s] copying turtlesim_py_pkg/go_to_loc.py -> /home/abdullrahmman/turtlesim_ws/build/turtlesim_py_pkg/build/lib/turtlesim_py_pkg
+[0.598s] copying turtlesim_py_pkg/spawn_turtle.py -> /home/abdullrahmman/turtlesim_ws/build/turtlesim_py_pkg/build/lib/turtlesim_py_pkg
+[0.599s] running install
+[0.599s] running install_lib
+[0.599s] copying /home/abdullrahmman/turtlesim_ws/build/turtlesim_py_pkg/build/lib/turtlesim_py_pkg/go_to_loc.py -> /home/abdullrahmman/turtlesim_ws/install/turtlesim_py_pkg/lib/python3.10/site-packages/turtlesim_py_pkg
+[0.599s] copying /home/abdullrahmman/turtlesim_ws/build/turtlesim_py_pkg/build/lib/turtlesim_py_pkg/spawn_turtle.py -> /home/abdullrahmman/turtlesim_ws/install/turtlesim_py_pkg/lib/python3.10/site-packages/turtlesim_py_pkg
+[0.600s] byte-compiling /home/abdullrahmman/turtlesim_ws/install/turtlesim_py_pkg/lib/python3.10/site-packages/turtlesim_py_pkg/go_to_loc.py to go_to_loc.cpython-310.pyc
+[0.600s] byte-compiling /home/abdullrahmman/turtlesim_ws/install/turtlesim_py_pkg/lib/python3.10/site-packages/turtlesim_py_pkg/spawn_turtle.py to spawn_turtle.cpython-310.pyc
+[0.601s] running install_data
+[0.601s] running install_egg_info
+[0.602s] removing '/home/abdullrahmman/turtlesim_ws/install/turtlesim_py_pkg/lib/python3.10/site-packages/turtlesim_py_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.602s] Copying ../../build/turtlesim_py_pkg/turtlesim_py_pkg.egg-info to /home/abdullrahmman/turtlesim_ws/install/turtlesim_py_pkg/lib/python3.10/site-packages/turtlesim_py_pkg-0.0.0-py3.10.egg-info
+[0.603s] running install_scripts
+[0.620s] Installing go_to_loc script to /home/abdullrahmman/turtlesim_ws/install/turtlesim_py_pkg/lib/turtlesim_py_pkg
+[0.620s] Installing spawn_turtle script to /home/abdullrahmman/turtlesim_ws/install/turtlesim_py_pkg/lib/turtlesim_py_pkg
+[0.620s] Installing vel_controller script to /home/abdullrahmman/turtlesim_ws/install/turtlesim_py_pkg/lib/turtlesim_py_pkg
+[0.620s] writing list of installed files to '/home/abdullrahmman/turtlesim_ws/build/turtlesim_py_pkg/install.log'
+[0.640s] Invoked command in '/home/abdullrahmman/turtlesim_ws/src/turtlesim_py_pkg' returned '0': CMAKE_PREFIX_PATH=/home/abdullrahmman/turtlesim_ws/install/turtlesim_interfaces:/home/abdullrahmman/ros2_ws/install/simple_interfaces_pkg LD_LIBRARY_PATH=/home/abdullrahmman/turtlesim_ws/install/turtlesim_interfaces/lib:/home/abdullrahmman/ros2_ws/install/simple_interfaces_pkg/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib PYTHONPATH=/home/abdullrahmman/turtlesim_ws/build/turtlesim_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/abdullrahmman/turtlesim_ws/install/turtlesim_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlesim_py_pkg build --build-base /home/abdullrahmman/turtlesim_ws/build/turtlesim_py_pkg/build install --record /home/abdullrahmman/turtlesim_ws/build/turtlesim_py_pkg/install.log --single-version-externally-managed install_data

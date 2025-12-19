@@ -1,0 +1,33 @@
+[0.513s] Invoking command in '/home/abdullrahmman/turtlesim_ws/src/turtlesim_py_pkg': PYTHONPATH=/home/abdullrahmman/turtlesim_ws/build/turtlesim_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/abdullrahmman/turtlesim_ws/install/turtlesim_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlesim_py_pkg build --build-base /home/abdullrahmman/turtlesim_ws/build/turtlesim_py_pkg/build install --record /home/abdullrahmman/turtlesim_ws/build/turtlesim_py_pkg/install.log --single-version-externally-managed install_data
+[0.702s] running egg_info
+[0.703s] creating ../../build/turtlesim_py_pkg/turtlesim_py_pkg.egg-info
+[0.703s] writing ../../build/turtlesim_py_pkg/turtlesim_py_pkg.egg-info/PKG-INFO
+[0.704s] writing dependency_links to ../../build/turtlesim_py_pkg/turtlesim_py_pkg.egg-info/dependency_links.txt
+[0.704s] writing entry points to ../../build/turtlesim_py_pkg/turtlesim_py_pkg.egg-info/entry_points.txt
+[0.704s] writing requirements to ../../build/turtlesim_py_pkg/turtlesim_py_pkg.egg-info/requires.txt
+[0.704s] writing top-level names to ../../build/turtlesim_py_pkg/turtlesim_py_pkg.egg-info/top_level.txt
+[0.704s] writing manifest file '../../build/turtlesim_py_pkg/turtlesim_py_pkg.egg-info/SOURCES.txt'
+[0.705s] reading manifest file '../../build/turtlesim_py_pkg/turtlesim_py_pkg.egg-info/SOURCES.txt'
+[0.705s] writing manifest file '../../build/turtlesim_py_pkg/turtlesim_py_pkg.egg-info/SOURCES.txt'
+[0.706s] running build
+[0.706s] running build_py
+[0.706s] creating /home/abdullrahmman/turtlesim_ws/build/turtlesim_py_pkg/build
+[0.706s] creating /home/abdullrahmman/turtlesim_ws/build/turtlesim_py_pkg/build/lib
+[0.706s] creating /home/abdullrahmman/turtlesim_ws/build/turtlesim_py_pkg/build/lib/turtlesim_py_pkg
+[0.706s] copying turtlesim_py_pkg/__init__.py -> /home/abdullrahmman/turtlesim_ws/build/turtlesim_py_pkg/build/lib/turtlesim_py_pkg
+[0.706s] running install
+[0.706s] running install_lib
+[0.707s] creating /home/abdullrahmman/turtlesim_ws/install/turtlesim_py_pkg/lib/python3.10/site-packages/turtlesim_py_pkg
+[0.707s] copying /home/abdullrahmman/turtlesim_ws/build/turtlesim_py_pkg/build/lib/turtlesim_py_pkg/__init__.py -> /home/abdullrahmman/turtlesim_ws/install/turtlesim_py_pkg/lib/python3.10/site-packages/turtlesim_py_pkg
+[0.707s] byte-compiling /home/abdullrahmman/turtlesim_ws/install/turtlesim_py_pkg/lib/python3.10/site-packages/turtlesim_py_pkg/__init__.py to __init__.cpython-310.pyc
+[0.707s] running install_data
+[0.707s] creating /home/abdullrahmman/turtlesim_ws/install/turtlesim_py_pkg/share/ament_index
+[0.708s] creating /home/abdullrahmman/turtlesim_ws/install/turtlesim_py_pkg/share/ament_index/resource_index
+[0.708s] creating /home/abdullrahmman/turtlesim_ws/install/turtlesim_py_pkg/share/ament_index/resource_index/packages
+[0.708s] copying resource/turtlesim_py_pkg -> /home/abdullrahmman/turtlesim_ws/install/turtlesim_py_pkg/share/ament_index/resource_index/packages
+[0.708s] copying package.xml -> /home/abdullrahmman/turtlesim_ws/install/turtlesim_py_pkg/share/turtlesim_py_pkg
+[0.708s] running install_egg_info
+[0.709s] Copying ../../build/turtlesim_py_pkg/turtlesim_py_pkg.egg-info to /home/abdullrahmman/turtlesim_ws/install/turtlesim_py_pkg/lib/python3.10/site-packages/turtlesim_py_pkg-0.0.0-py3.10.egg-info
+[0.709s] running install_scripts
+[0.727s] writing list of installed files to '/home/abdullrahmman/turtlesim_ws/build/turtlesim_py_pkg/install.log'
+[0.751s] Invoked command in '/home/abdullrahmman/turtlesim_ws/src/turtlesim_py_pkg' returned '0': PYTHONPATH=/home/abdullrahmman/turtlesim_ws/build/turtlesim_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/abdullrahmman/turtlesim_ws/install/turtlesim_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlesim_py_pkg build --build-base /home/abdullrahmman/turtlesim_ws/build/turtlesim_py_pkg/build install --record /home/abdullrahmman/turtlesim_ws/build/turtlesim_py_pkg/install.log --single-version-externally-managed install_data

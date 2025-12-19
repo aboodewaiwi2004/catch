@@ -1,0 +1,22 @@
+[0.012s] Invoking command in '/home/abdullrahmman/turtlesim_ws/build/turtlesim_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/abdullrahmman/ros2_ws/install/simple_py_pkg:/home/abdullrahmman/turtlesim_ws/install/turtlesim_py_pkg:/opt/ros/humble /usr/bin/cmake /home/abdullrahmman/turtlesim_ws/src/turtlesim_interfaces -DCMAKE_INSTALL_PREFIX=/home/abdullrahmman/turtlesim_ws/install/turtlesim_interfaces
+[0.024s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.134s] [31mCMake Error at CMakeLists.txt:10 (find_package):
+[0.134s]   By not providing "Findrosidl_defualt_generators.cmake" in CMAKE_MODULE_PATH
+[0.134s]   this project has asked CMake to find a package configuration file provided
+[0.134s]   by "rosidl_defualt_generators", but CMake did not find one.
+[0.134s] 
+[0.134s]   Could not find a package configuration file provided by
+[0.134s]   "rosidl_defualt_generators" with any of the following names:
+[0.134s] 
+[0.134s]     rosidl_defualt_generatorsConfig.cmake
+[0.134s]     rosidl_defualt_generators-config.cmake
+[0.135s] 
+[0.135s]   Add the installation prefix of "rosidl_defualt_generators" to
+[0.135s]   CMAKE_PREFIX_PATH or set "rosidl_defualt_generators_DIR" to a directory
+[0.135s]   containing one of the above files.  If "rosidl_defualt_generators" provides
+[0.135s]   a separate development package or SDK, be sure it has been installed.
+[0.135s] 
+[0.135s] [0m
+[0.136s] -- Configuring incomplete, errors occurred!
+[0.136s] See also "/home/abdullrahmman/turtlesim_ws/build/turtlesim_interfaces/CMakeFiles/CMakeOutput.log".
+[0.137s] Invoked command in '/home/abdullrahmman/turtlesim_ws/build/turtlesim_interfaces' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/abdullrahmman/ros2_ws/install/simple_py_pkg:/home/abdullrahmman/turtlesim_ws/install/turtlesim_py_pkg:/opt/ros/humble /usr/bin/cmake /home/abdullrahmman/turtlesim_ws/src/turtlesim_interfaces -DCMAKE_INSTALL_PREFIX=/home/abdullrahmman/turtlesim_ws/install/turtlesim_interfaces

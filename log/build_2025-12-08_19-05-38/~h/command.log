@@ -1,0 +1,2 @@
+Invoking command in '/home/abdullrahmman/turtlesim_ws/build/~h': /usr/bin/cmake /home/abdullrahmman/turtlesim_ws/src/~h -DCMAKE_INSTALL_PREFIX=/home/abdullrahmman/turtlesim_ws/install/~h
+Invoked command in '/home/abdullrahmman/turtlesim_ws/build/~h' returned '1': /usr/bin/cmake /home/abdullrahmman/turtlesim_ws/src/~h -DCMAKE_INSTALL_PREFIX=/home/abdullrahmman/turtlesim_ws/install/~h
