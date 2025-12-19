@@ -11,20 +11,31 @@ Proje Özellikleri
     Gerçek Zamanlı Takip: /new_turtles topic'i üzerinden aktif avların listesi anlık olarak güncellenir.
 
     Kurulum ve Çalıştırma
+    
 1. Workspace Derleme
 
 Öncelikle terminalinizde çalışma alanına gidip derleme işlemini yapın:
+
 cd ~/turtlesim_ws
+
 colcon build --packages-select turtlesim_py_pkg turtlesim_interfaces
+
 source install/setup.bash
 
 2. Simülasyonu Başlatma
+3. 
 Üç farklı terminal açarak aşağıdaki komutları sırasıyla çalıştırın:
+
 Terminal 1 (Turtlesim GUI):
+
 ros2 run turtlesim turtlesim_node
+
 Terminal 2 (Av Oluşturucu):
+
 ros2 run turtlesim_py_pkg spawn_turtle
+
 Terminal 3 (Avcı Kontrolcü):
+
 ros2 run turtlesim_py_pkg go_to_loc
 
 DEMO VIDEO
